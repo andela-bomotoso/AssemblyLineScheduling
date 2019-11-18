@@ -1,0 +1,6 @@
+C:\Users\bgo2e\Documents\Visual Studio 2015\Projects\Assembly Line Scheduling\Assembly Line Scheduling\Assembly Line Scheduling\bin\Debug\Assembly Line Scheduling.exe.config
+C:\Users\bgo2e\Documents\Visual Studio 2015\Projects\Assembly Line Scheduling\Assembly Line Scheduling\Assembly Line Scheduling\obj\Debug\Assembly Line Scheduling.csprojResolveAssemblyReference.cache
+C:\Users\bgo2e\Documents\Visual Studio 2015\Projects\Assembly Line Scheduling\Assembly Line Scheduling\Assembly Line Scheduling\bin\Debug\Assembly Line Scheduling.exe
+C:\Users\bgo2e\Documents\Visual Studio 2015\Projects\Assembly Line Scheduling\Assembly Line Scheduling\Assembly Line Scheduling\bin\Debug\Assembly Line Scheduling.pdb
+C:\Users\bgo2e\Documents\Visual Studio 2015\Projects\Assembly Line Scheduling\Assembly Line Scheduling\Assembly Line Scheduling\obj\Debug\Assembly Line Scheduling.exe
+C:\Users\bgo2e\Documents\Visual Studio 2015\Projects\Assembly Line Scheduling\Assembly Line Scheduling\Assembly Line Scheduling\obj\Debug\Assembly Line Scheduling.pdb
